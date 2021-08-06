@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on This is a top secret but it is huge...
 
-- 🌱 I’m currently learning Always i am learning something new, like design trends and technologies (vue, react).  
+- 🌱 I’m always learning something new, like design trends and technologies (vue, react).  
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
