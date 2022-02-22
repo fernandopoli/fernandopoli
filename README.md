@@ -2,7 +2,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> My name is Fernando, I live in Argentina 🇦🇷. I am a professional UX/UI Designer and also a Frontend Developer 🧑‍💻 with 15+ years of experience. I consider myself a hybrid profile from Design and Code. 🦄: 
+<div size='20px'> My name is Fernando, I live in Argentina 🇦🇷. I am a professional Frontend Developer and also a UX/UI Designer 🧑‍💻 with 15+ years of experience. I consider myself a hybrid profile from Design and Code. 🦄: 
 </div>
 
 <h2> About Me </h2>
@@ -10,7 +10,7 @@
 <!--<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />-->
 
 
-- 🔭 I’m currently working on This is a top secret but it is huge...
+- 🔭 I’m currently working on... This is a top secret but it is huge...
 
 - 🌱 I’m always learning something new, like design trends and technologies (vue, react).  
 
